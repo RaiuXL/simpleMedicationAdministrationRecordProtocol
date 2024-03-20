@@ -1,1 +1,1 @@
-# simpleMedicationAdministrationRecordProtocol
+SMARP is a client-server application designed to manage and track medication administration records for patients. This protocol allows healthcare providers to view, add, and remove medications from a patient's record using a simple text-based interface.
